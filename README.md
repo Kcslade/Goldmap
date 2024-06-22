@@ -2,6 +2,8 @@ Welcome to Goldmap! This map is designed to visualize geological and geochemical
 
 This project uses Geological and Mining Data from the USGS, US mineral Deposit Database, deep and shallow geochemical data from the MRDS, and mutiband composite images from landsat 8. 
 
+At the moment, the map encompasses the entire contiguous US and can identify Hotzones around 50km^2
+
 Layers:
 
 Composite heatmap
