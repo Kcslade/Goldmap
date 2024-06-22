@@ -4,6 +4,8 @@ This project uses Geological and Mining Data from the USGS, US mineral Deposit D
 
 At the moment, the map encompasses the entire contiguous US and can identify Hotzones around 50km^2
 
+Included in the repository is also a Qgis web application for use on websites. 
+
 Layers:
 
 Composite heatmap
