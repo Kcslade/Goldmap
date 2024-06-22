@@ -1,4 +1,15 @@
-Welcome to Goldmap! This map is designed to visualize geological and geochemical indicators of gold within the United States with a little remote sensing thrown in. 
+Welcome to Goldmap! This map is designed to visualize geological and geochemical indicators of gold within the United States using heatmaps with a little remote sensing thrown in. 
+
+This project uses Geological and Mining Data from the USGS, US mineral Deposit Database, deep and shallow geochemical data from the MRDS, and mutiband composite images from landsat 8. 
+
+Layers:
+
+Composite heatmap
+Geological heatmap
+Geochemical heatmap
+Remote sensing zones (Landsat Zones)
+
+Point data with all attributes also included. 
 
 ![GOLDMAPcomposite](https://github.com/Kcslade/Goldmap/assets/173574308/ef61607f-aec1-453d-8992-c11aeaad4328)
 
