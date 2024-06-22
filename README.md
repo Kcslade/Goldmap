@@ -1,8 +1,12 @@
 Welcome to Goldmap! This map is designed to visualize geological and geochemical indicators of gold within the United States with a little remote sensing thrown in. 
 
-Things to note:
+![GOLDMAPcomposite](https://github.com/Kcslade/Goldmap/assets/173574308/ef61607f-aec1-453d-8992-c11aeaad4328)
 
-- For preformance, visibility on points is limited unitl you zoom further in. 
+Qgis Project and Data Download:
+
+(https://drive.google.com/file/d/1qvzUw4_HtoIhvw_-78DDLrEuV7Bowvyx/view?usp=sharing)
+
+Things to note:
 
 - The composite heatmap is a composite of all the normal maps, weighted to favor the geochemical data first, the geological data second, and the landsat band composite very little(due to its quality).
 
