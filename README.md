@@ -11,6 +11,8 @@ Remote sensing zones (Landsat Zones)
 
 Point data with all attributes also included. 
 
+
+Composite Heatmap Sample:
 ![GOLDMAPcomposite](https://github.com/Kcslade/Goldmap/assets/173574308/ef61607f-aec1-453d-8992-c11aeaad4328)
 
 Qgis Project and Data Download:
