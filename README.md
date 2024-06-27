@@ -1,17 +1,16 @@
-Welcome to Goldmap! This map is designed to visualize geological and geochemical indicators of gold within the United States using heatmaps with a little remote sensing thrown in. 
+Welcome to Goldmap! This map is designed to visualize geological and geochemical indicators of gold within the United States using heatmaps
 
-This project uses Geological and Mining Data from the USGS, US mineral Deposit Database, deep and shallow geochemical data from the MRDS, and mutiband composite images from landsat 8. 
+This project uses Geological and Mining Data from the USGS, US mineral Deposit Database, deep and shallow geochemical data from the MRDS
 
-At the moment, the map encompasses the entire contiguous US and can identify Hotzones around 50km^2
+At the moment, the map encompasses the entire contiguous US and can identify Hotzones (where layers overlap)
 
 Included in the repository is also a Qgis web application for use on websites. 
 
 Layers:
 
-Composite heatmap
 Geological heatmap
 Geochemical heatmap
-Remote sensing zones (Landsat Zones)
+US Mining Zones
 
 Point data with all attributes also included. 
 
