@@ -6,6 +6,10 @@ At the moment, the map encompasses the entire contiguous US and can identify Hot
 
 Included in the repository is also a Qgis web application for use on websites. 
 
+Link to Webapp V2:
+https://kcslade.github.io/Goldmap/
+Rendering for the heatmaps on the webapp is low detail atm for speed, highly reccomend you check out the data in QGIS
+
 Layers:
 
 Geological heatmap
